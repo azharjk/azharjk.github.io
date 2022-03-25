@@ -1,3 +1,25 @@
 * {
   box-sizing: border-box;
 }
+
+body {
+  background-color: #E5E5E5;
+  font-family: system-ui, sans-serif;
+  color: #F6F6F6;
+}
+
+img {
+  max-width: 100%;
+}
+
+svg {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+p,
+h1,
+h2 {
+  margin: 0;
+  padding: 0;
+}
