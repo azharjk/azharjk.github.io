@@ -70,7 +70,7 @@ svg {
     margin-bottom: 1rem; }
   @media (min-width: 62rem) {
     .card__image {
-      max-height: 27rem; }
+      max-height: 30rem; }
     .card__title {
       text-align: left; } }
 
